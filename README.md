@@ -11,3 +11,6 @@ Place the `kitty.conf` file in the following path:
 ```
 ~/.config/kitty/kitty.conf
 ```
+
+# ranger-config
+`~/.config/ranger/rc.conf`
